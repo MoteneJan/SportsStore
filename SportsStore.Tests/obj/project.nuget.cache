@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "z+65Tlxtq8vD2oQgvIFQlrQ0w2xKGXwZn5ZSk/qfyW2psI661PjAFD8Unv0/zFF9CXf9l2di2QfEiBw0wSzMMQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\moten\\source\\repos\\SportsStore\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'xunit.runner.visualstudio' from remote source 'https://packagesource/FindPackagesById()?id='xunit.runner.visualstudio'&semVerLevel=2.0.0'.",
+      "libraryId": "xunit.runner.visualstudio"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'xunit' from remote source 'https://packagesource/FindPackagesById()?id='xunit'&semVerLevel=2.0.0'.",
+      "libraryId": "xunit"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'coverlet.collector' from remote source 'https://packagesource/FindPackagesById()?id='coverlet.collector'&semVerLevel=2.0.0'.",
+      "libraryId": "coverlet.collector"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.NET.Test.Sdk' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.NET.Test.Sdk'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.NET.Test.Sdk"
+    }
+  ]
+}
